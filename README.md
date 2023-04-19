@@ -27,5 +27,7 @@
 ![MONGO-DB](https://img.shields.io/badge/mongoDB-4D833D?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-## 📒 Used Stack Summary
-![Most_USED](https://github-readme-stats.vercel.app/api/top-langs/?username=Hjpark625&layout=compact&theme=dark)
+## 📒 Github Summary
+![GithubStats](https://github-readme-stats.vercel.app/api?username=hjpark625&layout=compact&theme=dark)  
+![Most_USED](https://github-readme-stats.vercel.app/api/top-langs?username=hjpark625&layout=compact&theme=dark)
+
