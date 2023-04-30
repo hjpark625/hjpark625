@@ -25,7 +25,10 @@
 ![KOA-ROUTER](https://img.shields.io/badge/Koa_Router-33333E?style=for-the-badge&logo=koa&logoColor=white)
 ### 💾 DataBase
 ![MONGO-DB](https://img.shields.io/badge/mongoDB-4D833D?style=for-the-badge&logo=mongodb&logoColor=white)
-
+### 🏗️ Infra
+![AWS-EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![AWS-ROUTE53](https://img.shields.io/badge/AWS_Route53-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![DOCKER](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ---
 ## 📒 Github Summary
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=hjpark625&layout=compact&theme=dark)  
