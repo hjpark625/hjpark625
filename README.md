@@ -23,6 +23,7 @@
 ![TSNODE](https://img.shields.io/badge/ts--Node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)
 ![KOA](https://img.shields.io/badge/Koa-33333E?style=for-the-badge&logo=koa&logoColor=white)
 ![KOA-ROUTER](https://img.shields.io/badge/Koa_Router-33333E?style=for-the-badge&logo=koa&logoColor=white)
+![NESTJS](https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ### 💾 DataBase
 ![MONGO-DB](https://img.shields.io/badge/mongoDB-4D833D?style=for-the-badge&logo=mongodb&logoColor=white)
 ### 🏗️ Infra
