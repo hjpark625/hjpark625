@@ -19,6 +19,12 @@
 ![TAILWIND_CSS](https://img.shields.io/badge/tailwind_css-A5F3FC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![FIREBASE](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
+### 🧪 Testing Library
+
+![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![REACT-TESTING-LIBRARY](https://img.shields.io/badge/react_testing_library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![CYPRESS](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
 ### 🧰 State Management
 
 ![RECOIL](https://img.shields.io/badge/recoil-764ABC?style=for-the-badge&logo=recoil&logoColor=white)  
@@ -29,11 +35,11 @@
 
 ### 🖥️ Back-End Stack
 
-![NODEJS](https://img.shields.io/badge/Node.JS-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![TSNODE](https://img.shields.io/badge/ts--Node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)  
+![NODE-JS](https://img.shields.io/badge/Node.JS-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![TS-NODE](https://img.shields.io/badge/ts--Node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)  
 ![KOA](https://img.shields.io/badge/Koa-33333E?style=for-the-badge&logo=koa&logoColor=white)
 ![KOA-ROUTER](https://img.shields.io/badge/Koa_Router-33333E?style=for-the-badge&logo=koa&logoColor=white)  
-![NESTJS](https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![NEST-JS](https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### 💾 DataBase
 
