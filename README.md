@@ -15,6 +15,7 @@
 ![NEXT-JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)  
 ![VUE](https://img.shields.io/badge/Vue2.0-42B883?style=for-the-badge&logo=vue.js&logoColor=35495E)
 ![VUE](https://img.shields.io/badge/Vue3.0-42B883?style=for-the-badge&logo=vue.js&logoColor=35495E)  
+![ANGULAR](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white)  
 ![STYLED-COMPONENTS](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TAILWIND_CSS](https://img.shields.io/badge/tailwind_css-A5F3FC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![FIREBASE](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
@@ -27,11 +28,13 @@
 
 ### 🧰 State Management
 
-![RECOIL](https://img.shields.io/badge/recoil-764ABC?style=for-the-badge&logo=recoil&logoColor=white)  
+![RECOIL](https://img.shields.io/badge/recoil-764ABC?style=for-the-badge&logo=recoil&logoColor=white)
+![ZUSTAND](https://img.shields.io/badge/zustand-333333?style=for-the-badge&logo=pnpm&logoColor=white)  
 ![REDUX](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![REDUX-SAGA](https://img.shields.io/badge/Redux_Saga-764ABC?style=for-the-badge&logo=redux-saga&logoColor=white)  
 ![VUEX](https://img.shields.io/badge/Vuex-42B883?style=for-the-badge&logo=vue.js&logoColor=35495E)
-![PINIA](https://img.shields.io/badge/Pinia-2c3e50?style=for-the-badge&logo=npm&logoColor=white)
+![PINIA](https://img.shields.io/badge/Pinia-2c3e50?style=for-the-badge&logo=pnpm&logoColor=white)  
+![NGRX](https://img.shields.io/badge/NgRx-333333?style=for-the-badge&logo=ngrx&logoColor=FF0000)
 
 ### 🖥️ Back-End Stack
 
@@ -47,7 +50,10 @@
 
 ### 🏗️ Infra
 
-![AWS-EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)  
+![AWS-EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![AWS-S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![AWS-CODE_PIPELINE](https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![AWS-CLOUD_FRONT](https://img.shields.io/badge/AWS_CloudFront-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)  
 ![DOCKER](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
